@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este es un proyecto que implementa la página de aterrizaje de Clipboard[^1^][2]. Clipboard es una aplicación que te permite rastrear y organizar todo lo que copias. Puedes acceder instantáneamente a tu portapapeles en todos tus dispositivos[^1^][2].
+Este es un proyecto que implementa la página de aterrizaje de Clipboard. Clipboard es una aplicación que te permite rastrear y organizar todo lo que copias. Puedes acceder instantáneamente a tu portapapeles en todos tus dispositivos.
 
 ## Link
 
